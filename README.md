@@ -1,6 +1,6 @@
 ## HI, I'm Amine
 
-🎓 Computer Science student from Tunisia<br/>
+🎓 Computer Science graduate from Tunisia<br/>
 💻 Interested in Software Engineering, AI, and Data Science<br/>
 🌱 Currently learning and building projects with modern technologies<br/>
 📫 Feel free to explore my repositories!<br/>
