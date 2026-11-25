@@ -21,13 +21,6 @@
 
 ---
 
-# 📊 GitHub Stats:
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amine-smaali&color=blue" alt="Profile Views" />
-  
-  ![GitHub followers](https://img.shields.io/github/followers/amine-smaali?label=Followers&style=social)
-  ![GitHub stars](https://img.shields.io/github/stars/amine-smaali?style=social)
-</div>
 
 # 💻 Tech Stack
 
