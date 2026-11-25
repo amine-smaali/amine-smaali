@@ -1,8 +1,7 @@
 <div align="center">
 
 
-<img src="pixel-room.gif" alt="Pixel art room" width="100%" />
-
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Pixel art room" width="100%" />
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=amine-smaali&color=1f6feb&style=flat-square&label=Profile+Views" alt="Profile Views" />
