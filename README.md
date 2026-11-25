@@ -21,26 +21,13 @@
 
 ---
 
-## 📊 GitHub Stats & Trophies
-
+# 📊 GitHub Stats:
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=amine-smaali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://streak-stats.demolab.com/?user=amine-smaali&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amine-smaali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" />
-
+  <img src="https://komarev.com/ghpvc/?username=amine-smaali&color=blue" alt="Profile Views" />
+  
+  ![GitHub followers](https://img.shields.io/github/followers/amine-smaali?label=Followers&style=social)
+  ![GitHub stars](https://img.shields.io/github/stars/amine-smaali?style=social)
 </div>
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amine-smaali&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="Contribution Graph" width="100%" />
-
-</div>
-
----
 
 # 💻 Tech Stack
 
