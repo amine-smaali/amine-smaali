@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=Hey%2C%20I'm%20Amine%20Smaali&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Graduate%20%7C%20Software%20Engineering%20%7C%20AI%20and%20Data%20Science&descSize=16&descAlignY=58" alt="Header" width="100%" />
 
 <img src="pixel-room.gif" alt="Pixel art room" width="100%" />
 
