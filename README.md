@@ -1,55 +1,144 @@
-## HI, I'm Amine
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=Hey%2C%20I'm%20Amine%20Smaali&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Graduate%20%7C%20Software%20Engineering%20%7C%20AI%20%26%20Data%20Science&descSize=16&descAlignY=58" alt="Header" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+graduate+from+Tunisia;Software+Engineering+%7C+AI+%7C+Data+Science;Learning+and+building+with+modern+tech" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=amine-smaali&color=1f6feb&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
+</div>
+
+---
+
+## 📌 About Me
 
 🎓 Computer Science graduate from Tunisia<br/>
 💻 Interested in Software Engineering, AI, and Data Science<br/>
 🌱 Currently learning and building projects with modern technologies<br/>
 📫 Feel free to explore my repositories!<br/>
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amine-smaali-88666631a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smaaliamine5@gmail.com) 
+## 📊 GitHub Stats & Trophies
 
-# 💻 Tech Stack
-
-**Languages**
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Frontend**
-
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
-
-**Backend**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
-**Databases**
-
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Data & ML**
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Design**
-
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-**Tools & DevOps**
-
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amine-smaali&color=blue" alt="Profile Views" />
-  
-  ![GitHub followers](https://img.shields.io/github/followers/amine-smaali?label=Followers&style=social)
-  ![GitHub stars](https://img.shields.io/github/stars/amine-smaali?style=social)
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=amine-smaali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://streak-stats.demolab.com/?user=amine-smaali&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amine-smaali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+
+</div>
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amine-smaali&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="Contribution Graph" width="100%" />
+
+</div>
+
+---
+
+## 🛠️ Languages & Tools
+
+### Programming Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,php,html,css,latex" alt="Programming Languages" />
+
+</div>
+
+### Frontend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" alt="Frontend" />
+<br/>
+<img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white" alt="Thymeleaf" />
+
+</div>
+
+### Backend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=spring,symfony,fastapi,nginx" alt="Backend" />
+
+</div>
+
+### Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mariadb,mysql,sqlite" alt="Databases" />
+
+</div>
+
+### Data & ML
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,matplotlib" alt="Data & ML" />
+
+</div>
+
+### Design
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=figma" alt="Design" />
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
+
+</div>
+
+### Tools & DevOps
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=github,docker,postman,jira" alt="Tools & DevOps" />
+<br/>
+<img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
+
+</div>
+
+---
+
+## 🔗 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amine-smaali-88666631a)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smaaliamine5@gmail.com)
+
+</div>
+
+---
+
+### 🐍 Snake Trail
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amine-smaali/amine-smaali/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amine-smaali/amine-smaali/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/amine-smaali/amine-smaali/output/github-snake-dark.svg" />
+</picture>
+
 </div>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<div align="center">
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <sub>amine-smaali · built with ❤️ and a lot of coffee</sub>
+</div>
