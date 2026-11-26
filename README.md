@@ -23,7 +23,7 @@
  
 <div align="center">
 <a href="https://amine-smaali.github.io">
-  <img src="./assets/portfolio-banner.svg" alt="Check my portfolio: full stack projects, skills and background" width="100%" />
+  <img src="portfolio-banner.svg" alt="Check my portfolio: full stack projects, skills and background" width="100%" />
 </a>
 <br/>
 [![Open portfolio](https://img.shields.io/badge/Open_portfolio-C07B3A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amine-smaali.github.io)
