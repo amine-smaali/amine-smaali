@@ -19,6 +19,16 @@
 
 ---
 
+## 🌐 Check My Portfolio
+ 
+<div align="center">
+See my projects, skills and background in one place.
+ 
+[![Portfolio](https://img.shields.io/badge/Visit_my_portfolio-3B4A6B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amine-smaali.github.io)
+ 
+</div>
+---
+
 
 # 💻 Tech Stack
 
