@@ -25,11 +25,6 @@
 <a href="https://amine-smaali.github.io">
   <img src="portfolio-banner.svg" alt="Check my portfolio: full stack projects, skills and background" width="100%" />
 </a>
-<br/>
-[![Open portfolio](https://img.shields.io/badge/Open_portfolio-C07B3A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amine-smaali.github.io)
-[![Featured project](https://img.shields.io/badge/Featured_project-AI_learning_platform-3B4A6B?style=for-the-badge&logo=github&logoColor=white)](https://amine-smaali.github.io/#projects)
-[![Say hello](https://img.shields.io/badge/Say_hello-F5F0E8?style=for-the-badge&logo=gmail&logoColor=3B4A6B&labelColor=3B4A6B)](mailto:smaaliamine5@gmail.com)
- 
 </div>
 
 
